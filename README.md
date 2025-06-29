@@ -32,7 +32,7 @@ _Jun 2023 – Present_
 - Built Reward Creation Management Page for portal system.  
 - Migrated and restructured projects from Nuxt 2 to Nuxt 3.  
 - Established E2E and unit testing (Cypress, Playwright, Vitest).  
-- Created auto-generated pages with OpenAPI and reusable components.  
+- Created auto-generated pages with OpenAPI and reusable components ([nuxt-openapi-autopages](https://github.com/Pakpoom597/nuxt-openapi-autopages)).
 - Boosted UI performance using Web Workers and optimized API calls.  
 - Resolved vulnerabilities with DefectDojo and integrated SSO via Keycloak.  
 - Developed Kotlin WebFlux backend APIs for reactive web services.
